@@ -1,1 +1,1 @@
-# rigid_body_dynamice_graph
+# rigid_body_dynamics_graph
