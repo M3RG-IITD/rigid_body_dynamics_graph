@@ -5,6 +5,9 @@ The notebooks directory contains all the related ipynb notebooks.
 ### Chain made up of links
 <img src="assets/chain.png" width=500px>
 
+### Learned link dynamics
+https://user-images.githubusercontent.com/35164119/194478741-65f4d6b7-07b9-487c-a089-2711b4c9193a.mp4
+
 ### Mass matrix of structure D
 <img src="assets/mass_matrix_T1.png" width=900px>
 
